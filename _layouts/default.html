@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+  </head>
+  <body>
+    <nav style="margin-bottom:16px;">
+      <a href="{{ '/' | relative_url }}">Home</a> |
+      <a href="{{ '/about.html' | relative_url }}">About</a> |
+      <a href="{{ '/projects.html' | relative_url }}">Projects</a> |
+      <a href="{{ '/labs.html' | relative_url }}">Labs</a> |
+      <a href="{{ '/resources.html' | relative_url }}">Resources</a> |
+      <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+    </nav>
+
+    <main>
+      {{ content }}
+    </main>
+  </body>
+</html>
