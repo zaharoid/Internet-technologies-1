@@ -1,5 +1,6 @@
 ---
 title: "Logs"
+layout: default
 ---
 
 # Task Logs
