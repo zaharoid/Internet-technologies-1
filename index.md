@@ -1,7 +1,25 @@
-# My GitHub Pages Site
-This site was created for a university assignment.
+---
+title: "Home"
+---
 
-## About me
-- Name: Zakhar Hololobov (77605)
-- Group: 55DPH
-- Topic: GitHub Pages + Jekyll theme
+# GitHub Pages Website (University Assignment)
+
+Welcome! This website was created as part of a university assignment.  
+It demonstrates a static site deployed with **GitHub Pages** and styled using a **Jekyll theme**.
+
+## Navigation
+- [About](about.html)
+- [Projects](projects.html)
+- [Labs](labs.html)
+- [Resources](resources.html)
+- [Contact](contact.html)
+
+## What you can find here
+- A brief profile and course information
+- Short descriptions of academic or personal projects
+- Lab/task logs with steps and outcomes
+- Useful learning resources and references
+- Contact information and links
+
+## Deployment
+This site is hosted on GitHub Pages and automatically updated after each commit to the `main` branch.
