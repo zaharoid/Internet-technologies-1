@@ -10,7 +10,7 @@ It demonstrates a static site deployed with **GitHub Pages** and styled using a 
 ## Navigation
 - [About](about.html)
 - [Projects](projects.html)
-- [Labs](labs.html)
+- [Logs](logs.html)
 - [Resources](resources.html)
 - [Contact](contact.html)
 
