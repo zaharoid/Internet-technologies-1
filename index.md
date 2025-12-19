@@ -1,5 +1,6 @@
 ---
 title: "Home"
+layout: default
 ---
 
 # GitHub Pages Website (University Assignment)
